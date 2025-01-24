@@ -63,5 +63,6 @@ The RAG Dream Islands project combines AI technologies to enhance information re
    python rag_dream_islands_eng_new.py
    ```
 3. Follow the output instructions for using the retrieval and generation pipeline.
+4. To use the generation part a Google AI Studio API key is required. 
 # dream_islands_RAG
 Repository for the Travel Project Dream Islands
